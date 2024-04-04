@@ -1,4 +1,4 @@
-Forked from atomic14. All credit for Pinout goes to him.
+Forked from atomic14. All credit for Pinout goes to them.
 
 # Is this useful?
 
