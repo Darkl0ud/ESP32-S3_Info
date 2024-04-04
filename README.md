@@ -1,4 +1,4 @@
-Forked from atomic14. All credit for Pinout goes to them.
+Forked from atomic14. All credit for Pinout goes to them. I have added datasheets and Pinlayouts for ESP32-S3-DevkitC-1, for my own ease of use/collection of information.
 
 # Is this useful?
 
