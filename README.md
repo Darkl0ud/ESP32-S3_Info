@@ -1,3 +1,5 @@
+Forked from atomic14. All credit for Pinout goes to him.
+
 # Is this useful?
 
 Feel free to open an issue or PR if you have any suggestions. And if you found it helpful then you might like to visit one of these links:
