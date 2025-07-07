@@ -105,6 +105,7 @@ The pins for ADC Unit 1 are:
 | GPIO7    | ADC1_CH6 |
 | GPIO8    | ADC1_CH7 |
 | GPIO9    | ADC1_CH8 |
+| GPIO10    | ADC1_CH9 |
 
 # DAC Pins
 
